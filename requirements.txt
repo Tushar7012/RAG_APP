@@ -1,0 +1,7 @@
+langchain
+streamlit
+chromadb
+faiss-cpu
+sentence-transformers
+fastapi
+uvicorn
